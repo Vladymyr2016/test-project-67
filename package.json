@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predev": "vite build --base=/test-project-67/",
     "dev": "vite",
     "build": "vite build --base=/test-project-67/",
     "preview": "vite preview",
